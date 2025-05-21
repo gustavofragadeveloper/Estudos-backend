@@ -1,0 +1,24 @@
+package exercicios;
+
+public class Ex1 {
+
+	public static void main(String[] args) {
+		
+		String product1 = "computer";
+		String product2 = "office desk";
+		
+		int age = 20;
+		int code = 1022;
+		char gender = 'F';
+
+		double price1 = 3000.0;
+		double price2 = 600.0;
+		double measure = 65.12345678;
+		
+		System.out.println("Products: %n %s, wich price is %f %n %s, wich price is %f", product1, price1, product2, price2);
+		
+		
+
+	}
+
+}
