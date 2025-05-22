@@ -22,7 +22,7 @@ public class Ex5 {
 
 		System.out.println("NUMBER = " + numFuncionario);
 
-		System.out.printf("SALARY = U$ %.2f%n", salario)
+		System.out.printf("SALARY = U$ %.2f%n", salario);
 
 
 

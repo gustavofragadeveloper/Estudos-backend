@@ -20,6 +20,8 @@ public class Ex6 {
 		double valorTotal = (nrPeca1 * vlPeca1) + (nrPeca2 *vlPeca2);
 
 		System.out.printf("VALOR A PAGAR: U$ %.2f%n", valorTotal);
+		System.out.println("NÚMERO PEÇA 1: " + peca1);
+		System.out.println("NÚMERO PEÇA 2: " + peca2);
 
 		sc.close();
 
